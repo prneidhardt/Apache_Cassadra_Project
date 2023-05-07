@@ -14,7 +14,7 @@ Sparkify Project
 - They'd like a data engineer to create an Apache Cassandra database which can create queries on song play data to answer the questions. You'll be able to test your database by running queries given to you by the analytics team from Sparkify to create the results.
 
 ## Skills and Tools
-- Data Preprocessing
+- Data preprocessing
 - ETL (Extract, Transform, Load)
 - Apache Cassandra
-- Data Modeling
+- Data modeling
