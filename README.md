@@ -1,7 +1,6 @@
 # Data-Modeling
 Sparkify Project
 
-- Project completed as part of Udacity's Data Engineering with AWS Nanodegree Program
 - Project delivered in May 2023
 - Repository includes three files:
   - Jupyter notebook with Python code
